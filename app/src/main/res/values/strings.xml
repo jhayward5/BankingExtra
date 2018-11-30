@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Banking</string>
+    <string name="title_activity_3">Activity3</string>
+    <string name="cards">Cards</string>
+    <string name="account_number">Account Number</string>
+    <string name="name_on_card">Name On Card</string>
+    <string name="sort_code">Sort Code</string>
+    <string name="todo">TODO</string>
+    <string name="payroll">Payroll</string>
+    <string name="banking_hub">Banking Hub</string>
+    <string name="cardshome">Cards +</string>
+    <string name="reimbursement">Reimbursement</string>
+    <string name="benefits">Benefits</string>
+    <string name="payroll2">Payroll</string>
+    <string name="benefits2">Benefits</string>
+    <string name="select_expense_type">Select expense type</string>
+    <string name="reimbursement2">Reimbursement</string>
+    <string name="accno_input">Account Number</string>
+    <string name="expense_amount">Expense amount (£)</string>
+    <string name="you_are_able_to_claim_back_expenses_here_from_your_assessment_day_up_to_a_total_value_of_150">You are able to claim back expenses here from your assessment day up to a total value of £150.</string>
+    <string name="expense_type">Expense type</string>
+    <string name="expense_type2">Expense Type</string>
+
+    <string-array name="names">
+        <item>Card 1</item>
+        <item>Card 2</item>
+        <item>Card 3</item>
+        <item>Card 4</item>
+        <item>Card 5</item>
+    </string-array>
+
+</resources>
