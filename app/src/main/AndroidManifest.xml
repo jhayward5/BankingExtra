@@ -22,7 +22,13 @@
             android:label="@string/title_activity_3"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name=".Activity4" />
-        <activity android:name=".Activity5"></activity>
+        <activity android:name=".Activity5" />
+        <activity android:name=".amex" />
+        <activity android:name=".timemgmt" />
+        <activity android:name=".Concur" />
+        <activity android:name=".Workday" />
+        <activity android:name=".Securitypass" />
+        <activity android:name=".mydxc1"></activity>
     </application>
 
 </manifest>
